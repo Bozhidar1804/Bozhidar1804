@@ -14,7 +14,7 @@
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-original.svg" alt="EFCore" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-original.svg](https://user-images.githubusercontent.com/58300181/118834163-ec6da000-b8b9-11eb-98dc-5e604c11e79f.png)" alt="EFCore" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="padding-right:10px"/>
