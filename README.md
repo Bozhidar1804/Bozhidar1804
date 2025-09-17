@@ -11,7 +11,7 @@
 
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="padding-right:10px"/>
 <img align="left" height="30" src="https://github.com/user-attachments/assets/adc9fe22-6854-47bb-9f76-cdf77684ed8e" alt="ASP.NET Core" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="https://github.com/user-attachments/assets/19645b30-b031-473f-922a-cbe2fc2a3626" alt="MSSQL" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="padding-right:10px"/>
