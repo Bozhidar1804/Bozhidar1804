@@ -10,8 +10,8 @@
 ## 💻 Languages & Tools I Use
 
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktSHqgqakiablD3dr0iIMN0vdVbIUgY40MQ&s" alt="ASP.NET Core" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hSdAGqU6pbPAMcb77fpyOwHGnX2J5GjBRg&s" alt="Entity Framework Core" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/.NET_Core_Logo.svg" alt="ASP.NET Core" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="https://www.cleanpng.com/png-entity-framework-core-asp-net-core-net-framework-a-4949740/" alt="Entity Framework Core" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="padding-right:10px"/>
@@ -19,7 +19,7 @@
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEjiut5yunWPoUMjX6SRKcidbPKF-DZJAYw&s" alt="Visual Studio" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="padding-right:10px"/>
 <br/><br/>
 
