@@ -19,7 +19,7 @@
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="padding-right:10px"/>
-<img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" style="padding-right:10px"/>
+<img align="left" width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEjiut5yunWPoUMjX6SRKcidbPKF-DZJAYw&s" alt="Visual Studio" style="padding-right:10px"/>
 <img align="left" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="padding-right:10px"/>
 <br/><br/>
 
