@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Bozhidar
 
-🎓 Bachelor in Informatics and Software Sciences | Technical University of Sofia (2025 - 2029)
-💻 C# Full-Stack Developer | Software University Professional Degree (2023 - 2025)
-🌱 Passionate about continuous learning and building strong foundations in software development
-🚀 Motivated to work on challenging projects and thrive in collaborative teams
+-🎓 Bachelor in Informatics and Software Sciences | Technical University of Sofia (2025 - 2029)
+-💻 C# Full-Stack Developer | Software University Professional Degree (2023 - 2025)
+-🌱 Passionate about continuous learning and building strong foundations in software development
+-🚀 Motivated to work on challenging projects and thrive in collaborative teams
 
 - *“Strive for progress, not perfection.”*
 
